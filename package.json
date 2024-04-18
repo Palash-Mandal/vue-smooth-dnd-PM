@@ -1,17 +1,17 @@
 {
-  "name": "vue-smooth-dnd",
-  "version": "0.8.1",
+  "name": "vue3-smooth-dnd-pm",
+  "version": "1.0",
   "description": "Vue wrappers for smooth-dnd",
   "author": "Kutlu Sahin",
-  "homepage": "https://kutlugsahin.github.io/vue-smooth-dnd/",
+  "homepage": "https://github.com/Palash-Mandal/vue-smooth-dnd-PM",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kutlugsahin/vue-smooth-dnd"
+    "url": "https://github.com/Palash-Mandal/vue-smooth-dnd-PM"
   },
   "contributors": [
     {
-      "name": "Dave Stewart",
-      "url": "https://github.com/davestewart"
+      "name": "PALASH MANDAL",
+      "url": "https://github.com/Palash-Mandal"
     }
   ],
   "keywords": [
@@ -26,9 +26,9 @@
     "dnd",
     "smooth-dnd"
   ],
-  "main": "dist/vue-smooth-dnd.js",
-  "module": "dist/vue-smooth-dnd.esm.js",
-  "jsnext:main": "dist/vue-smooth-dnd.esm.js",
+  "main": "dist/vue3-dnd.js",
+  "module": "dist/vue3-dnd.esm.js",
+  "jsnext:main": "dist/vue3-dnd.esm.js",
   "files": [
     "dist/*"
   ],
@@ -42,7 +42,7 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kutlugsahin/vue-smooth-dnd/issues"
+    "url": "https://github.com/Palash-Mandal/vue-smooth-dnd-PM/issues"
   },
   "dependencies": {
     "smooth-dnd": "0.12.1"
