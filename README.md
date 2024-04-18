@@ -2,7 +2,7 @@
 
 A fast and lightweight drag&drop, sortable library for Vue.js with many configuration options covering many d&d scenarios.
 
-This library consists wrapper Vue.js components over [smooth-dnd](https://github.com/kutlugsahin/smooth-dnd) library.
+This library consists wrapper Vue.js components over [smooth-dnd](https://github.com/Palash-Mandal/vue-smooth-dnd-PM) library.
 
 ## Demo
 
@@ -13,7 +13,7 @@ View the demo here:
 ## Installation
 
 ```shell
-npm i vue-smooth-dnd
+npm i vue-smooth-dnd-pm
 ```
 
 ## Usage
@@ -36,7 +36,7 @@ npm i vue-smooth-dnd
 </template>
 
 <script>
-import { Container, Draggable } from "vue-smooth-dnd";
+import { Container, Draggable } from "vue-smooth-dnd-pm";
 import { applyDrag, generateItems } from "./utils";
 export default {
   name: "Simple",
